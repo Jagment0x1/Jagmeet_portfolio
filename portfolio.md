@@ -1,4 +1,4 @@
-<h2> Jagmeet's Portfolio </h2>.
+<h2> Jagmeet's Portfolio </h2>
 
 ## About Me 
 
